@@ -1,0 +1,10 @@
+@media only screen and (max-width: 1200px) {
+  .header-title {
+    height: auto;
+    min-width: 550px;
+    font-size: $smaller__header-font-size;
+  }
+  .header-img {
+    min-width: 550px;
+  }
+}
